@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 
 Here are some ideas to get you started:
 
@@ -10,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with c++
 - 💬 Ask me about poop
 - 📫 How to reach me: telegram.com/papiezwatican
--->
+
